@@ -1,4 +1,5 @@
 # Training-SecF
+Syed 6202150575 sibtainahmad7861@gmail.com
 Prem Patra, 8144071973, patraprem100@gmail.com
 Ankit Choudhary 9692638286 ankitscrkl@gmail.com
 Sitaram 7855033734 sitaramnayak8763@gmail.com
@@ -8,4 +9,3 @@ vishal kumar  8809538221 vk7648772@gmail.com
 vishal kumar  8809538221 vk7648772@gmail.com
 Subasis Jena 7847966901 jena.sibul2005@gmail.com
 Biswaranjan kar 6370497174 biky7873@gmail.com
-
