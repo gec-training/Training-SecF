@@ -1,5 +1,9 @@
 # Training-SecF
 
+Chinmaya Kumar Nayak 9778678344 chinmayanayak469@gmail.com
+Devsshish Umesh Dalai 9137617362 dalaidev9@gmail.com
+vishal kumar  8809538221 vk7648772@gmail.com
+Subasis Jena 7847966901 jena.sibul2005@gmail.com
 Asit 7865835396 example@gmail.com
 Syed 6202150575 sibtainahmad7861@gmail.com
 Prem Patra, 8144071973, patraprem100@gmail.com
